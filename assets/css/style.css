@@ -24,7 +24,7 @@
   --gray-800: #484847;
   --dark: #323230;
   --white: #fff;
-  --main-color: #a306b6;
+  --main-color: #1175c3;
   --main-color-light: #edddef;
   --main-color-200: #e5c5e8;
   --main-color-inverse: #fff;
@@ -32,12 +32,12 @@
   --main-color-banner-inverse: var(--main-color-inverse);
   --main-color-navbar: var(--gray-300);
   --main-color-navbar-inverse: var(--dark);
-  --warning-color: #bb4dc9;
+  --warning-color: #3879ab;
   --warning-color-inverse: var(--white);
   --warning-outline-color: var(--dark);
-  --info-color: #d495dc;
+  --info-color: #6296bd;
   --info-color-inverse: var(--dark);
-  --main-link-color: #a306b6;
+  --main-link-color: #1175c3;
 }
 [class^="alert"] {
   position: relative;
