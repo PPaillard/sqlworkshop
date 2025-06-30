@@ -1,5 +1,5 @@
 :root {
-    --main-color: #a306b6;
+    --main-color: #1175c3;
     --main-color-light: #edddef;
     --main-color-200: #e5c5e8;
     --main-color-inverse: #faf45e;
@@ -9,11 +9,11 @@
     --main-color-navbar: transparent;
     --main-color-navbar-inverse: var(--dark);
 
-    --warning-color: #a306b6;
+    --warning-color: #1175c3;
     --warning-color-inverse: #faf45e;
     --warning-outline-color: var(--dark);
 
-    --info-color: #d495dc;
+    --info-color: #3879ab;
     --info-color-inverse: #1D1D1B;
 
     --main-link-color: var(--main-color);
